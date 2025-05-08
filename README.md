@@ -60,20 +60,5 @@ Here are a few highlights of the work I've done:
 - 🌐 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-link)  
 - 🧑‍💻 SAP Community: [your-sap-profile-link]
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="profile views"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
-</p>
-
----
 
 <p align="center">💙 Thank you for visiting my profile! 💙</p>
